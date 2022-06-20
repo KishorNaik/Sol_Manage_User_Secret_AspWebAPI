@@ -1,0 +1,11 @@
+﻿Step 1:
+Add User Secret Management in project.
+	- Select the Project in the solution explorer
+	- Right Click on Project
+	- Select Manage User Secrets
+
+Step 2:
+	This will open the secrets.json file.
+
+	it will store secret.json file in the following section
+	%APPDATA%\Microsoft\UserSecrets\<user_secrets_id>\secrets.json
